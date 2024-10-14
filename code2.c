@@ -83,4 +83,6 @@ int main() {
     printMatrix(transposeA);
     printf("Transpose of matrix B:\n");
     printMatrix(transposeB);
+
+    return 0;
 }
